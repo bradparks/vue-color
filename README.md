@@ -17,7 +17,7 @@ $ npm install vue-color
 
 ### CommonJS
 ```js
-var Photoshop = require('vue-color/src/Photoshop.vue');
+var Photoshop = require('vue-color/src/components/Photoshop.vue');
 
 new Vue({
   components: {
